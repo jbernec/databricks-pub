@@ -1,2 +1,2 @@
 # databricks_repo
-azure databricks related source code solutions.
+Azure Databricks related source code solutions.
