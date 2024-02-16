@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ## Helper functions to implement delta change data feed, predictive i/o (enable deletion vectors),custom delta merge and other operations in databricks.
+# MAGIC ## Helper functions to implement delta change data feed read, predictive i/o (enable deletion vectors) for accelerted delta merge operations, custom delta merge and other operations in databricks.
 
 # COMMAND ----------
 
